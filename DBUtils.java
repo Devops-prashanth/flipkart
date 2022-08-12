@@ -1,4 +1,5 @@
-This java class contains the DB related code...
+ merged the remote changes 
+ This java class contains the DB related code...
 
 i have updated
 
